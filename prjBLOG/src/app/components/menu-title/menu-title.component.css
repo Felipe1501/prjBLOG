@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+.menu__title__container{
+    color: aliceblue;
+}
+
+.menu__title__container > h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 150px;
+    font-family: 'Sigmar', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.menu__title__container > hr{
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+}
