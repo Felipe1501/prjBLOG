@@ -1,0 +1,1 @@
+![BLOG NERD GEEK](./../ideasLayout/blogNERDGEEK.png)
