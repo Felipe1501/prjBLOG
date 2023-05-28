@@ -1,1 +1,1 @@
-![BLOG NERD GEEK](./../ideasLayout/blogNERDGEEK.png)
+![BLOG NERD GEEK](./ideasLayout/blogNERDGEEK.png)
